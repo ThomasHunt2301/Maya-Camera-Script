@@ -1,0 +1,27 @@
+Default_Cam
+
+Camera_Test
+Focal Length: 35.0
+Horizontal Aperture: 3.0
+Vertical Aperture: 2.0
+
+
+Carl_Zeiss Batis
+Focal Length: 25.0
+Horizontal Aperture: 2
+Vertical Aperture: 1.0
+
+Sony_FE
+Focal Length: 85.0
+Horizontal Aperture: 1.4
+Vertical Aperture: 1.0
+
+Carl_Zeiss Apo Sonnar
+Focal Length: 135.0
+Horizontal Aperture: 2.0
+Vertical Aperture: 0.8
+
+Nikon_Tamron SP
+Focal Length: 45.0
+Horizontal Aperture: 1.8
+Vertical Aperture: 0.8
